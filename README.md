@@ -158,9 +158,6 @@ pip install -r requirements.txt
 # Run strategy notebooks (after placing FRED-MD data)
 jupyter notebook notebooks/strategies/strategy_1_long_only.ipynb
 jupyter notebook notebooks/strategies/strategy_2_long_short.ipynb
-
-# Or regenerate notebooks programmatically
-python generate_notebooks.py
 ```
 
 ---
